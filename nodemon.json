@@ -1,6 +1,6 @@
 
 {
     "env": {
-        "MONGODB_URL": "mongodb+srv://shobha_99:ysav123456789@restappl-gtjru.mongodb.net/test?retryWrites=true&w=majority"
+        "MONGODB_URL":"<URL>"      // Paste your Mongodb URL here Example: "mongodb+srv://< User Name >:<password> @restappl-gtjru.mongodb.net/test?retryWrites=true&w=majority"
     }
 }
